@@ -1,0 +1,9 @@
+6,5		! bctype, number,  Inlet
+1,2,180 	! start block, bc-dir(1,2,3), bc_minmax(1,max)
+5,5	 	! bctype, number,  Outlet
+6,2,180	! start block, bc-dir(1,2,3), bc_minmax(1,max)
+9,1	 	! bctype, number, Injection inlet
+11,1,1	 	! start block, bc-dir(1,2,3), bc_minmax(1,max)
+5,1	 	! bctype, number, Suction outlet
+14,1,80 	! start block, bc-dir(1,2,3), bc_minmax(1,max)
+-1,0

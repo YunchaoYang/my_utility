@@ -1,0 +1,467 @@
+&bcdef bcdir='xie', block=  1, bctype=7, start=  1,  1,  1, end=  1, 40, 50
+                  ,iblock= 40,          istart= 40,  1,  1,iend= 40, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=  1, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=  2,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block=  1, bctype=7, start=  1,  1,  1, end= 40,  1, 50
+                  ,iblock=123,          istart=  1, 40,  1,iend= 40, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block=  1, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 41,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=  2, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=  3,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block=  2, bctype=7, start=  1,  1,  1, end= 40,  1, 50
+                  ,iblock=124,          istart=  1, 40,  1,iend= 40, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block=  2, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 42,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=  3, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=  4,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block=  3, bctype=7, start=  1,  1,  1, end= 40,  1, 50
+                  ,iblock=125,          istart=  1, 40,  1,iend= 40, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block=  3, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 43,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=  4, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=  5,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block=  4, bctype=7, start=  1,  1,  1, end= 40,  1, 50
+                  ,iblock=126,          istart=  1, 40,  1,iend= 40, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block=  4, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 44,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=  5, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=  6,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block=  5, bctype=7, start=  1,  1,  1, end= 40,  1, 50
+                  ,iblock=127,          istart=  1, 40,  1,iend= 40, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block=  5, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 45,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=  6, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=  7,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block=  6, bctype=7, start=  1,  1,  1, end= 40,  1, 50
+                  ,iblock=128,          istart=  1, 40,  1,iend= 40, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block=  6, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 46,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=  7, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=  8,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block=  7, bctype=7, start=  1,  1,  1, end= 40,  1, 50
+                  ,iblock=129,          istart=  1, 40,  1,iend= 40, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block=  7, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 47,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=  8, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=  9,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block=  8, bctype=7, start=  1,  1,  1, end= 40,  1, 50
+                  ,iblock=130,          istart=  1, 40,  1,iend= 40, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block=  8, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 48,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=  9, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 10,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block=  9, bctype=7, start=  1,  1,  1, end= 40,  1, 50
+                  ,iblock=131,          istart=  1, 40,  1,iend= 40, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block=  9, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 49,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 10, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 11,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 10, bctype=7, start=  1,  1,  1, end= 40,  1, 50
+                  ,iblock=132,          istart=  1, 40,  1,iend= 40, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 10, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 50,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 11, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 12,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 11, bctype=7, start=  1,  1,  1, end= 40,  1, 50
+                  ,iblock=133,          istart=  1, 40,  1,iend= 40, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 11, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 51,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 12, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 13,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 12, bctype=7, start=  1,  1,  1, end= 40,  1, 50
+                  ,iblock=134,          istart=  1, 40,  1,iend= 40, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 12, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 52,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 13, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 14,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 13, bctype=7, start=  1,  1,  1, end= 40,  1, 50
+                  ,iblock=135,          istart=  1, 40,  1,iend= 40, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 13, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 53,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 14, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 15,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 14, bctype=7, start=  1,  1,  1, end= 40,  1, 50
+                  ,iblock=136,          istart=  1, 40,  1,iend= 40, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 14, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 54,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 15, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 16,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 15, bctype=7, start=  1,  1,  1, end= 40,  1, 50
+                  ,iblock=137,          istart=  1, 40,  1,iend= 40, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 15, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 55,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 16, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 17,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 16, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 56,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 17, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 18,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 17, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 57,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 18, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 19,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 18, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 58,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 19, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 20,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 19, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 59,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 20, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 21,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 20, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 60,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 21, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 22,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 21, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 61,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 22, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 23,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 22, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 62,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 23, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 24,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 23, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 63,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 24, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 25,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 24, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 64,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 25, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 26,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 25, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 65,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 26, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 27,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 26, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 66,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 27, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 28,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 27, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 67,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 28, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 29,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 28, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 68,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 29, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 30,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 29, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 69,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 30, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 31,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 30, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 70,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 31, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 32,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 31, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 71,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 32, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 33,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 32, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 72,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 33, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 34,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 33, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 73,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 34, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 35,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 34, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 74,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 35, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 36,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 35, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 75,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 36, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 37,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 36, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 76,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 37, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 38,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 37, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 77,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 38, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 39,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 38, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 78,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 39, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 40,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 39, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 79,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 40, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 80,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 41, bctype=7, start=  1,  1,  1, end=  1, 40, 50
+                  ,iblock= 80,          istart= 40,  1,  1,iend= 40, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 41, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 42,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 41, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 81,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 42, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 43,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 42, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 82,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 43, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 44,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 43, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 83,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 44, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 45,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 44, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 84,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 45, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 46,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 45, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 85,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 46, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 47,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 46, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 86,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 47, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 48,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 47, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 87,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 48, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 49,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 48, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 88,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 49, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 50,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 49, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 89,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 50, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 51,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 50, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 90,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 51, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 52,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 51, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 91,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 52, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 53,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 52, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 92,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 53, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 54,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 53, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 93,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 54, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 55,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 54, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 94,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 55, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 56,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 55, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 95,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 56, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 57,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 56, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 96,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 57, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 58,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 57, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 97,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 58, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 59,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 58, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 98,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 59, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 60,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 59, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock= 99,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 60, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 61,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 60, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock=100,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 61, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 62,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 61, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock=101,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 62, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 63,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 62, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock=102,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 63, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 64,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 63, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock=103,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 64, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 65,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 64, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock=104,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 65, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 66,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 65, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock=105,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 66, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 67,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 66, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock=106,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 67, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 68,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 67, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock=107,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 68, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 69,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 68, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock=108,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 69, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 70,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 69, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock=109,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 70, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 71,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 70, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock=110,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 71, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 72,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 71, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock=111,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 72, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 73,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 72, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock=112,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 73, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 74,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 73, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock=113,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 74, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 75,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 74, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock=114,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 75, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 76,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 75, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock=115,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 76, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 77,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 76, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock=116,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 77, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 78,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 77, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock=117,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 78, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 79,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 78, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock=118,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 79, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 80,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 79, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock=119,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='eta', block= 80, bctype=7, start=  1, 40,  1, end= 40, 40, 50
+                  ,iblock=120,          istart=  1,  1,  1,iend= 40,  1, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 81, bctype=7, start=  1,  1,  1, end=  1, 40, 50
+                  ,iblock=120,          istart= 40,  1,  1,iend= 40, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 81, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 82,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 82, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 83,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 83, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 84,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 84, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 85,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 85, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 86,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 86, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 87,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 87, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 88,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 88, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 89,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 89, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 90,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 90, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 91,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 91, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 92,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 92, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 93,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 93, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 94,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 94, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 95,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 95, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 96,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 96, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 97,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 97, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 98,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 98, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock= 99,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block= 99, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=100,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=100, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=101,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=101, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=102,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=102, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=103,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=103, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=104,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=104, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=105,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=105, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=106,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=106, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=107,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=107, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=108,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=108, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=109,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=109, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=110,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=110, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=111,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=111, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=112,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=112, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=113,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=113, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=114,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=114, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=115,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=115, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=116,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=116, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=117,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=117, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=118,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=118, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=119,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=119, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=120,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=121, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=122,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=122, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=123,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=123, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=124,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=124, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=125,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=125, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=126,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=126, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=127,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=127, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=128,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=128, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=129,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=129, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=130,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=130, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=131,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=131, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=132,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=132, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=133,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=133, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=134,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=134, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=135,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=135, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=136,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=136, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=137,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=137, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=138,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+&bcdef bcdir='xie', block=138, bctype=7, start= 40,  1,  1, end= 40, 40, 50
+                  ,iblock=139,          istart=  1,  1,  1,iend=  1, 40, 50, order=  1,  2,  3/
+ 

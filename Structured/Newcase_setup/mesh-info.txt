@@ -1,0 +1,17 @@
+Surrounding:120
+CFJ 19 blk
+Total mesh size: 1601*121*51 + 761*41*51 
+Total 11,120,000 cells
+each blk: 40,40,50 = 80,000
+INJ: 121, 122
+Connection: 123-137
+SUC: 138, 139
+
+Inlet: 81-100
+Outlet: 01-120
+
+INJ inlet: 121
+SUC outlet: 139
+
+Note r = 1
+which means d = 2, use 2 scale

@@ -1,0 +1,13 @@
+&bcdef bcdir='eta', block=  1, bctype=  6, start=  1,180,  1, end=200,180,  1/
+&bcdef bcdir='eta', block=  2, bctype=  6, start=  1,180,  1, end=200,180,  1/
+&bcdef bcdir='eta', block=  3, bctype=  6, start=  1,180,  1, end=200,180,  1/
+&bcdef bcdir='eta', block=  4, bctype=  6, start=  1,180,  1, end=200,180,  1/
+&bcdef bcdir='eta', block=  5, bctype=  6, start=  1,180,  1, end=200,180,  1/
+&bcdef bcdir='eta', block=  6, bctype=  5, start=  1,180,  1, end=200,180,  1/
+&bcdef bcdir='eta', block=  7, bctype=  5, start=  1,180,  1, end=200,180,  1/
+&bcdef bcdir='eta', block=  8, bctype=  5, start=  1,180,  1, end=200,180,  1/
+&bcdef bcdir='eta', block=  9, bctype=  5, start=  1,180,  1, end=200,180,  1/
+&bcdef bcdir='eta', block= 10, bctype=  5, start=  1,180,  1, end=200,180,  1/
+&bcdef bcdir='xie', block= 11, bctype=  9, start=  1,  1,  1, end=  1, 60,  1/
+&bcdef bcdir='xie', block= 14, bctype=  5, start= 80,  1,  1, end= 80, 60,  1/
+ 

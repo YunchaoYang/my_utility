@@ -1,0 +1,14 @@
+#!/bin/bash
+
+#BSUB -J aoa70-cfj-5suc-4i2j
+#BSUB -o %J.out
+#BSUB -e %J.err
+#BSUB -W 88:00
+#BSUB -q general
+#BSUB -n 13
+#BSUB -B
+#BSUB -R "span[ptile=2]"
+#BSUB -N
+
+mpiexec.hydra ./init-1300.out
+mpiexec.hydra ./main-1300.out

@@ -1,0 +1,4 @@
+1/ block_splitter.f is developped for automated splitting or merged of general mesh
+2/ turbo_splitter is developped for automated splitting and boundary condition in turbomachinery case.
+
+Follow instructions in the tutorial_beguinner.pdf, section utility code.

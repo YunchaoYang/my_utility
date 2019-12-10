@@ -1,0 +1,42 @@
+echo  "#!/bin/bash"                                             > $1.batch
+echo  "#SBATCH --job-name=$1"                                >> $1.batch
+echo  "#SBATCH --mail-type=ALL"                                 >> $1.batch
+echo  "#SBATCH --qos=ccmt"                                    >> $1.batch
+echo  "#SBATCH --account=ccmt"                                  >> $1.batch
+echo  "#SBATCH --mail-user=hityangsir@ufl.edu"                  >> $1.batch
+echo  "#SBATCH --ntasks=$3"                                     >> $1.batch
+echo  "#SBATCH --nodes=$2"                                      >> $1.batch
+echo  "#SBATCH --cpus-per-task=1"                               >> $1.batch
+echo  "#SBATCH --distribution=cyclic:cyclic"                    >> $1.batch
+echo  "#SBATCH --mem-per-cpu=1gb"                             >> $1.batch
+echo  "#SBATCH --time=15:00:00"                                 >> $1.batch
+echo  "#SBATCH --output=logfile_%j.out"                         >> $1.batch
+echo  "#SBATCH --partition=hpg2-compute"                        >> $1.batch
+echo  ""                                                        >> $1.batch
+echo  cd `pwd`                                                  >> $1.batch
+echo  "echo" $1      ">"  SESSION.NAME                          >> $1.batch
+echo  "echo \`pwd\`'/' >> SESSION.NAME"                         >> $1.batch
+
+echo "echo '#################################################################'" >> $1.batch
+echo "echo '#################################################################'" >> $1.batch
+echo "echo Running on \$SLURM_JOB_NUM_NODES nodes with \$SLURM_NTASKS tasks."     >> $1.batch
+echo "echo '#################################################################'" >> $1.batch
+echo "echo '#################################################################'" >> $1.batch
+
+echo  "module load intel/2017"                                  >> $1.batch
+echo  "module load openmpi/3.0.0"                               >> $1.batch
+echo  rm -f  $1.his1                                            >> $1.batch
+echo  rm -f  $1.sch1                                            >> $1.batch
+echo  rm -f  $1.log1                                            >> $1.batch
+echo  mv $1.log $1.log1                                         >> $1.batch
+echo  mv $1.his $1.his1                                         >> $1.batch
+echo  mv $1.sch $1.sch1                                         >> $1.batch
+echo  rm -f logfile                                             >> $1.batch
+echo  rm -f ioinfo                                              >> $1.batch
+echo  sleep 5                                                   >> $1.batch
+echo  srun --mpi=pmix ./nek5000                                 >> $1.batch
+echo  sleep 5                                                   >> $1.batch
+echo  "exit 0;"                                                 >> $1.batch
+sbatch  $1.batch
+sleep 3
+squeue -u hityangsir

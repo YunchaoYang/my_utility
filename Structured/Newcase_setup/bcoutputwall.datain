@@ -1,0 +1,328 @@
+&bcdef bcdir='zta', block=  1, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=  1, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=  2, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=  2, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=  3, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=  3, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=  4, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=  4, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=  5, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=  5, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=  6, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=  6, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=  7, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=  7, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=  8, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=  8, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=  9, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=  9, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 10, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 10, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 11, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 11, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 12, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 12, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 13, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 13, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 14, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 14, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 15, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 15, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 16, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 16, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 16, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 17, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 17, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 17, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 18, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 18, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 18, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 19, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 19, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 19, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 20, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 20, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 20, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 21, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 21, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 21, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 22, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 22, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 22, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 23, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 23, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 23, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 24, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 24, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 24, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 25, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 25, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 25, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 26, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 26, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 26, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 27, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 27, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 27, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 28, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 28, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 28, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 29, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 29, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 29, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 30, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 30, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 30, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 31, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 31, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 31, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 32, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 32, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 32, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 33, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 33, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 33, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 34, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 34, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 34, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 35, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 35, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 35, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 36, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 36, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 36, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 37, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 37, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 37, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 38, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 38, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 38, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 39, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 39, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 39, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block= 40, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block= 40, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 40, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 41, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 41, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 42, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 42, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 43, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 43, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 44, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 44, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 45, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 45, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 46, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 46, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 47, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 47, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 48, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 48, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 49, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 49, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 50, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 50, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 51, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 51, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 52, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 52, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 53, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 53, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 54, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 54, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 55, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 55, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 56, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 56, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 57, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 57, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 58, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 58, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 59, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 59, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 60, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 60, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 61, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 61, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 62, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 62, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 63, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 63, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 64, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 64, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 65, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 65, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 66, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 66, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 67, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 67, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 68, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 68, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 69, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 69, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 70, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 70, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 71, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 71, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 72, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 72, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 73, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 73, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 74, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 74, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 75, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 75, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 76, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 76, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 77, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 77, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 78, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 78, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 79, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 79, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 80, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 80, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 81, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 81, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 82, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 82, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 83, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 83, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 84, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 84, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 85, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 85, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 86, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 86, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 87, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 87, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 88, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 88, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 89, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 89, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 90, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 90, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 91, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 91, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 92, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 92, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 93, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 93, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 94, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 94, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 95, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 95, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 96, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 96, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 97, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 97, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 98, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 98, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block= 99, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block= 99, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=100, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=100, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=101, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=101, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=102, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=102, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=103, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=103, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=104, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=104, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=105, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=105, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=106, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=106, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=107, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=107, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=108, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=108, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=109, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=109, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=110, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=110, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=111, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=111, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=112, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=112, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=113, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=113, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=114, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=114, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=115, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=115, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=116, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=116, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=117, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=117, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=118, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=118, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=119, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=119, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='zta', block=120, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=120, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block=121, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='eta', block=121, bctype=  3, start=  1, 40,  1, end= 40, 40, 50/
+&bcdef bcdir='zta', block=121, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=121, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block=122, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='eta', block=122, bctype=  3, start=  1, 40,  1, end= 40, 40, 50/
+&bcdef bcdir='zta', block=122, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=122, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block=123, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block=123, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=123, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block=124, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block=124, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=124, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block=125, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block=125, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=125, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block=126, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block=126, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=126, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block=127, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block=127, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=127, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block=128, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block=128, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=128, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block=129, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block=129, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=129, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block=130, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block=130, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=130, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block=131, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block=131, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=131, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block=132, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block=132, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=132, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block=133, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block=133, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=133, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block=134, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block=134, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=134, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block=135, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block=135, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=135, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block=136, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block=136, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=136, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block=137, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='zta', block=137, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=137, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block=138, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='eta', block=138, bctype=  3, start=  1, 40,  1, end= 40, 40, 50/
+&bcdef bcdir='zta', block=138, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=138, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='eta', block=139, bctype=  3, start=  1,  1,  1, end= 40,  1, 50/
+&bcdef bcdir='eta', block=139, bctype=  3, start=  1, 40,  1, end= 40, 40, 50/
+&bcdef bcdir='zta', block=139, bctype=  3, start=  1,  1,  1, end= 40, 40,  1/
+&bcdef bcdir='zta', block=139, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+&bcdef bcdir='end', block=139, bctype=  3, start=  1,  1, 50, end= 40, 40, 50/
+ 

@@ -1,0 +1,14 @@
+&bcdef bcdir='eta', block=  1, bctype=  3, start=  1,  1,  1, end=200,  1,  1/
+&bcdef bcdir='eta', block=  2, bctype=  3, start=  1,  1,  1, end=200,  1,  1/
+&bcdef bcdir='eta', block=  3, bctype=  3, start=  1,  1,  1, end=200,  1,  1/
+&bcdef bcdir='eta', block=  4, bctype=  3, start=  1,  1,  1, end=200,  1,  1/
+&bcdef bcdir='eta', block=  9, bctype=  3, start=  1,  1,  1, end=200,  1,  1/
+&bcdef bcdir='eta', block= 10, bctype=  3, start=  1,  1,  1, end=200,  1,  1/
+&bcdef bcdir='eta', block= 11, bctype=  3, start=  1,  1,  1, end= 80,  1,  1/
+&bcdef bcdir='eta', block= 11, bctype=  3, start=  1, 60,  1, end= 80, 60,  1/
+&bcdef bcdir='eta', block= 12, bctype=  3, start=  1,  1,  1, end=200,  1,  1/
+&bcdef bcdir='eta', block= 13, bctype=  3, start=  1,  1,  1, end=600,  1,  1/
+&bcdef bcdir='eta', block= 14, bctype=  3, start=  1,  1,  1, end= 80,  1,  1/
+&bcdef bcdir='eta', block= 14, bctype=  3, start=  1, 60,  1, end= 80, 60,  1/
+&bcdef bcdir='end', block= 14, bctype=  3, start=  1, 60,  1, end= 80, 60,  1/
+ 
